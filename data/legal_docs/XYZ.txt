@@ -1,1 +1,1 @@
-SpecialTermXYZ: This is a unique legal concept used only for testing RAG systems.
+
