@@ -2,3 +2,4 @@ Appellant: A person who files an appeal against a court decision.
 Defendant: A person accused in a legal case.
 Subpoena: A formal, legal court order requiring a person to appear as a witness or provide specific documents.
 
+Acquittal: A judgment where a criminal defendant is found "not guilty" and is cleared of the charges.
