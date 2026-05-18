@@ -1,4 +1,4 @@
 Appellant: A person who files an appeal against a court decision.
 Defendant: A person accused in a legal case.
 Jurisdiction: The authority of a court to hear and decide a case.
-Plaintiff: A person who brings a case against another in a court of law.
+
